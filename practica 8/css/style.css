@@ -1,0 +1,50 @@
+
+*{
+    margin: 0%
+}
+body{
+    background: url("../img/fondo.jpg");
+    
+    
+}
+header{
+    height:300px;
+
+    background: url("../img/logo.png") no-repeat;
+    text-align: center;
+      
+    background-size: 100% 100%;
+    background-repeat:no-repeat; 
+}
+
+
+div ul li{
+
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    list-style: none;   
+}
+
+div ul {   
+    
+    background: black;
+    color: white;
+    height: 30px;
+    width: 97% ;
+}
+
+#datos{
+    
+
+    color:pink;
+    padding: 0px 250px;
+    height: 300px;
+    
+   
+}
+
+
+
+
+
+    
